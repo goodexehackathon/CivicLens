@@ -1,0 +1,7 @@
+streamlit>=1.35
+pymupdf>=1.24
+pytest>=8.0
+google-genai>=1.0      # optional: only used when GEMINI_API_KEY is set
+pytesseract>=0.3.10    # optional OCR; also needs the Tesseract binary + Hindi data (hin)
+pillow>=10.0
+python-dotenv>=1.0
