@@ -1,0 +1,1 @@
+Not yet produced. Six sections: Problem & Solution; Architecture; Technical Approach; Prototype (add real screenshots after launch); Feasibility & Impact (separate demonstrated vs potential); Future Scope.
