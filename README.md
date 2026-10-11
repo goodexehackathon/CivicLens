@@ -38,7 +38,7 @@ git branch -M main
 git remote add origin https://github.com/<your-account>/<your-repo>.git
 git push -u origin main
 ```
-## Deploy (Streamlit Community Cloud) — **live URL uploaded and deployed**
+## Deploy (Streamlit Community Cloud) — **live URL: https://civiclens-dm9hrhboldkhz3aifwyqhc.streamlit.app/**
 Push to GitHub → share.streamlit.io → New app → select repo, `app.py` → Advanced settings → Secrets: `GEMINI_API_KEY = "..."`. Works without the secret. Note: free-tier apps are public; don't upload sensitive files. Remove `pytesseract` from requirements if the build fails (OCR then disabled).
 
 ## Real documents for the demo
